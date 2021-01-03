@@ -21,9 +21,5 @@ public class Test {
         nonVegMeal.showItems();
         System.out.println("总价格："+nonVegMeal.getCost());
 
-
-
-
-
     }
 }
